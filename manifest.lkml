@@ -12,6 +12,6 @@ constant: VIS_ID {
 
 visualization: {
   id: "@{VIS_ID}"
-  url: "https://edkent.github.io/viz-report-table-marketplace/report_table.js"
+  url: "http://localhost:8080/report_table.js"
   label: "@{VIS_LABEL}"
 }
