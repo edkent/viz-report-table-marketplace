@@ -2912,8 +2912,9 @@ v8-compile-cache@^2.1.1:
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.1.1.tgz#54bc3cdd43317bca91e35dcaf305b1a7237de745"
   integrity sha512-8OQ9CL+VWyt3JStj7HX7/ciTL2V3Rl1Wf5OL+SNTm0yK1KvtReVulksyeRnCANHHuUxHlQig+JJDlUhBt1NQDQ==
 
-vis-tools@../vis-tools:
+"vis-tools@https://github.com/edkent/vis-tools#v1.0.4":
   version "1.0.0"
+  resolved "https://github.com/edkent/vis-tools#3da67860d9c90e9973692c3b5b908f8c2f4fffa0"
   dependencies:
     ssf "^0.11.0"
 
